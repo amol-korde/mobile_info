@@ -1,4 +1,6 @@
-Mobile info list
-Lenovo
-Samsung
-Apple
+Mobile info list --
+Lenovo,
+Samsung,
+Apple.
+
+
